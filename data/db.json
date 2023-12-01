@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Nkei",
+      "datetime": "November 30, 2023 12:36:43 PM",
+      "body": "as"
+    },
+    {
+      "id": 2,
+      "title": "Test 1",
+      "datetime": "November 30, 2023 3:43:54 PM",
+      "body": "new post"
+    },
+    {
+      "id": 3,
+      "title": "test",
+      "datetime": "November 30, 2023 4:10:43 PM",
+      "body": "post 2 edit!!"
+    }
+  ]
+}
